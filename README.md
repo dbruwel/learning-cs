@@ -24,3 +24,6 @@ src/
 ### Numerics
 **Integrators**:
 *Quadrature*: Finds the integral of a 1D function by slicing it up and using polynomial interpolation.
+
+### Rust
+Random rust projects, many from the user guide.
